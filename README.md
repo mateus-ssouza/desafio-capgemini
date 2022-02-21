@@ -4,7 +4,7 @@
 Este repositório contém as atividades solicitadas no desafio para Academia Técnica Capgemini 2022.
 </p>
 
-<h2>Intruções para execução</h2>
+<h2>Instruções para execução</h2>
 
 <ul>
   <li>Faça o clone do repositório na sua máquina local;</li>
